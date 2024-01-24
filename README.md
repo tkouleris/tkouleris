@@ -1,7 +1,7 @@
 <div align="center"> 
 
 ## My Stats
-[![tkouleris's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkouleris)](https://github.com/anuraghazra/github-readme-stats)
+[![tkouleris's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkouleris)](https://github.com/tkouleris/github-readme-stats&show_icons=true&theme=radical)
   
 ## Tech
 [![My Skills](https://skillicons.dev/icons?i=php,py,java,laravel,flask,spring,html,js,jquery,vue,react,mysql,idea,postman,linux&perline=15)](https://skillicons.dev)
