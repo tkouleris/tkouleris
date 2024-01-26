@@ -1,4 +1,4 @@
-<div align="center"> 
+<div > 
 
 ## 🏆 My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkouleris&theme=dracula&hide=css,html,blade&langs_count=3&exclude_repo=github-readme-stats,tkouleris.github.io)    ![tkouleris's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkouleris&theme=dracula&show_icons=true)
