@@ -1,7 +1,6 @@
 <div align="center"> 
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkouleris&theme=dracula&hide=css,blade&exclude_repo=github-readme-stats,tkouleris.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkouleris&theme=dracula&hide=css,blade&langs_count=3&exclude_repo=github-readme-stats,tkouleris.github.io)![tkouleris's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkouleris&show_icons=true)
   
 ## Tech
 [![My Skills](https://skillicons.dev/icons?i=php,py,java,laravel,flask,spring,html,js,jquery,vue,react,mysql,idea,postman,linux&perline=15)](https://skillicons.dev)
