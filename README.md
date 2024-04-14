@@ -1,7 +1,7 @@
 <div > 
 
 ## 🏆 My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkouleris&layout=compact&hide=css,blade,html,typescript&theme=dracula)    ![tkouleris's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs,issues&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkouleris&layout=compact&hide=css,blade,html,typescript&theme=dracula)    ![tkouleris's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs&theme=dracula)
 <br><br>  
 ##  💻 Tech
 [![My Skills](https://skillicons.dev/icons?i=php,py,java,laravel,flask,spring,html,js,jquery,vue,react,mysql,idea,postman,linux&perline=15)](https://skillicons.dev)
