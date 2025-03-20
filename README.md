@@ -1,5 +1,8 @@
 <div > 
-Hello there!! Welcome to my web site. Yes, this is another boring web site. I made it because I am a vain human who has little life out of computers. This page is about things that I like to do. Because this is a personal web site you may read a lot the word I. No, that doesn't mean that I am selfish. I really care about humanity and I help my neighbour. Now, if you are bored don't go on to read the rest of the site, you will be more bored
+## 👋 Hello There  
+Yes, this is another GitHub profile. I made it because I’m a curious programmer who spends probably too much time in front of a screen. This space is about things I enjoy building — and yes, you’ll see a lot of the word I around here. No, that doesn’t mean I’m selfish… I just really like coding (and I also help my neighbors, I promise).
+
+If you’re still reading, feel free to dive into my projects. Just a warning: you might get bored… or you might find something cool. Who knows?
   
 ## 🏆 My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkouleris&layout=compact&hide=css,blade,html,typescript&theme=dracula)    ![tkouleris's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkouleris&hide=contribs,prs&theme=dracula)
