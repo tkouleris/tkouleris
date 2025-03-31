@@ -14,7 +14,7 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 ## 🎮 When not in the Matrix
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) 
 
-## Latest Blog Posts
+## :thread: Latest Blog Posts
 <ul>
   <li><a href="https://tkouleris.eu/blog/terry-davis-a-tortured-genius"  target="_blank">Tech Heroes #9: Terry Davis - A Tortured Genius</a></li>
   <li><a href="https://tkouleris.eu/blog/code-kata" target="_blank">Code Kata: The Art of Code</a></li>
