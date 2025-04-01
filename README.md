@@ -16,8 +16,8 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>    
-  <li>2025-03-31: <a href="https://tkouleris.eu/blog/my-ide-journey" target="_blank">My IDE Journey</a></li>
-  <li>2025-03-23: <a href="https://tkouleris.eu/blog/terry-davis-a-tortured-genius"  target="_blank">Tech Heroes #9: Terry Davis - A Tortured Genius</a></li>
-  <li>2025-03-17: <a href="https://tkouleris.eu/blog/code-kata" target="_blank">Code Kata: The Art of Code</a></li>  
+  <li> <b>2025-03-31:</b> <a href="https://tkouleris.eu/blog/my-ide-journey" target="_blank">My IDE Journey</a></li>
+  <li> <b>2025-03-23:</b> <a href="https://tkouleris.eu/blog/terry-davis-a-tortured-genius"  target="_blank">Tech Heroes #9: Terry Davis - A Tortured Genius</a></li>
+  <li> <b>2025-03-17:</b> <a href="https://tkouleris.eu/blog/code-kata" target="_blank">Code Kata: The Art of Code</a></li>  
 </ul>
 </div>
