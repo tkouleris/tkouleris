@@ -16,8 +16,8 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>    
-  <li> <b>2025-04-06:</b> <a href="https://tkouleris.eu/blog/singleton-pattern" target="_blank">Singleton Pattern</a></li>
-  <li> <b>2025-03-31:</b> <a href="https://tkouleris.eu/blog/my-ide-journey" target="_blank">My IDE Journey</a></li>
-  <li> <b>2025-03-23:</b> <a href="https://tkouleris.eu/blog/terry-davis-a-tortured-genius"  target="_blank">Tech Heroes #9: Terry Davis - A Tortured Genius</a></li>  
+  <li> <b>2025-05-18:</b> <a href="https://tkouleris.eu/blog/binary-heap" target="_blank">Data Structures #2: Binary Heap</a></li>
+  <li> <b>2025-04-29:</b> <a href="https://tkouleris.eu/blog/linked-lists" target="_blank">Data Structures #1: Linked Lists</a></li>
+  <li> <b>2025-04-14:</b> <a href="https://tkouleris.eu/blog/hackers"  target="_blank">Computer Science Movies #3: Hackers</a></li>  
 </ul>
 </div>
