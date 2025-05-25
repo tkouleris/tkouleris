@@ -16,8 +16,8 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>    
+  <li> <b>2025-05-25:</b> <a href="https://tkouleris.eu/blog/trie" target="_blank">Data Structures #3: Trie</a></li>
   <li> <b>2025-05-18:</b> <a href="https://tkouleris.eu/blog/binary-heap" target="_blank">Data Structures #2: Binary Heap</a></li>
   <li> <b>2025-04-29:</b> <a href="https://tkouleris.eu/blog/linked-lists" target="_blank">Data Structures #1: Linked Lists</a></li>
-  <li> <b>2025-04-14:</b> <a href="https://tkouleris.eu/blog/hackers"  target="_blank">Computer Science Movies #3: Hackers</a></li>  
 </ul>
 </div>
