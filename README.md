@@ -16,8 +16,8 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>    
-  <li> <b>2025-05-25:</b> <a href="https://tkouleris.eu/blog/trie" target="_blank">Data Structures #3: Trie</a></li>
-  <li> <b>2025-05-18:</b> <a href="https://tkouleris.eu/blog/binary-heap" target="_blank">Data Structures #2: Binary Heap</a></li>
-  <li> <b>2025-04-29:</b> <a href="https://tkouleris.eu/blog/linked-lists" target="_blank">Data Structures #1: Linked Lists</a></li>
+  <li> <b>2025-06-15:</b> <a href="https://tkouleris.eu/blog/law-of-demeter" target="_blank">The Law of Demeter</a></li>
+  <li> <b>2025-06-09:</b> <a href="https://tkouleris.eu/blog/binary-search-tree" target="_blank">Data Structures #4: Binary Search Tree</a></li>
+  <li> <b>2025-06-01:</b> <a href="https://tkouleris.eu/blog/ada-lovelace" target="_blank">Tech Heroes #10: Ada Lovelace</a></li>
 </ul>
 </div>
