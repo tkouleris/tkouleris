@@ -15,7 +15,7 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) 
 
 ## :thread: Latest Blog Posts
-<ul
+<ul>
   <li> <b>2025-07-06:</b> <a href="https://tkouleris.eu/blog/slot-cpu" target="_blank">Forgotten Technologies #6: Slot CPU</a></li>
   <li> <b>2025-06-15:</b> <a href="https://tkouleris.eu/blog/law-of-demeter" target="_blank">The Law of Demeter</a></li>
   <li> <b>2025-06-09:</b> <a href="https://tkouleris.eu/blog/binary-search-tree" target="_blank">Data Structures #4: Binary Search Tree</a></li>
