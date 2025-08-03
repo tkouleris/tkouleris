@@ -16,8 +16,8 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>
+  <li> <b>2025-08-03:</b> <a href="https://tkouleris.eu/blog/programmers-get-moving" target="_blank">Programmers, Get Moving: Your Brain Depends on It</a></li>
   <li> <b>2025-07-06:</b> <a href="https://tkouleris.eu/blog/slot-cpu" target="_blank">Forgotten Technologies #6: Slot CPU</a></li>
   <li> <b>2025-06-15:</b> <a href="https://tkouleris.eu/blog/law-of-demeter" target="_blank">The Law of Demeter</a></li>
-  <li> <b>2025-06-09:</b> <a href="https://tkouleris.eu/blog/binary-search-tree" target="_blank">Data Structures #4: Binary Search Tree</a></li>
 </ul>
 </div>
