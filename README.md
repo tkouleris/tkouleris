@@ -16,6 +16,7 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>
+  <li> <b>2025-08-29:</b> <a href="https://tkouleris.eu/blog/eric-s-raymond" target="_blank">Tech Heroes #10: Eric S. Raymond</a></li>     
   <li> <b>2025-08-28:</b> <a href="https://tkouleris.eu/blog/adobe-flash" target="_blank">Forgotten Technologies #7: Adobe Flash</a></li>   
   <li> <b>2025-08-27:</b> <a href="https://tkouleris.eu/blog/async-await" target="_blank">async - await</a></li>  
   <li> <b>2025-08-26:</b> <a href="https://tkouleris.eu/blog/a-programmers-guide-to-stress" target="_blank">A Programmers Guide to Stress</a></li>   
