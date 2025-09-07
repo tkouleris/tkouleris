@@ -17,7 +17,7 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 ## :thread: Latest Blog Posts
 <ul>
   <li> <b>2025-09-07:</b> <a href="https://tkouleris.eu/blog/three-tips-for-efficient-sql-queries" target="_blank">Three (3) Tips for efficient SQL Queries</a></li>    
-  <li> <b>2025-08-26:</b> <a href="https://tkouleris.eu/blog/basics-of-http" target="_blank">Basics of HTTP</a></li>     
+  <li> <b>2025-08-31:</b> <a href="https://tkouleris.eu/blog/basics-of-http" target="_blank">Basics of HTTP</a></li>     
   <li> <b>2025-08-29:</b> <a href="https://tkouleris.eu/blog/eric-s-raymond" target="_blank">Tech Heroes #10: Eric S. Raymond</a></li>     
   <li> <b>2025-08-28:</b> <a href="https://tkouleris.eu/blog/adobe-flash" target="_blank">Forgotten Technologies #7: Adobe Flash</a></li>   
 </ul>
