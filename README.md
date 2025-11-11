@@ -16,9 +16,9 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>
+  <li> <b>2025-11-02:</b> <a href="https://tkouleris.eu/blog/music-for-programmers" target="_blank">Music for Programmers</a></li>
+  <li> <b>2025-10-19:</b> <a href="https://tkouleris.eu/blog/merge-sort" target="_blank">Sorting Algorithms #3: Merge Sort</a></li>
   <li> <b>2025-09-21:</b> <a href="https://tkouleris.eu/blog/raf-chinook-helicopter" target="_blank">Dangerous Software #2: RAF Chinook Helicopter</a></li>   
-  <li> <b>2025-09-07:</b> <a href="https://tkouleris.eu/blog/three-tips-for-efficient-sql-queries" target="_blank">Three (3) Tips for efficient SQL Queries</a></li>    
-  <li> <b>2025-08-31:</b> <a href="https://tkouleris.eu/blog/basics-of-http" target="_blank">Basics of HTTP</a></li>     
-  <li> <b>2025-08-29:</b> <a href="https://tkouleris.eu/blog/eric-s-raymond" target="_blank">Tech Heroes #10: Eric S. Raymond</a></li>       
+  <li> <b>2025-09-07:</b> <a href="https://tkouleris.eu/blog/three-tips-for-efficient-sql-queries" target="_blank">Three (3) Tips for efficient SQL Queries</a></li>                  
 </ul>
 </div>
