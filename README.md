@@ -5,9 +5,6 @@ Yes, this is another GitHub profile. I made it because I’m a curious programme
 
 If you’re still reading, feel free to dive into my projects. Just a warning: you might get bored… or you might find something cool. Who knows?
   
-## 🏆 My Stats
-![tkouleris's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkouleris&hide=contribs,prs&theme=dracula)
-<br><br>  
 ##  💻 Tech
 [![My Skills](https://skillicons.dev/icons?i=php,py,java,laravel,flask,spring,html,js,jquery,vue,react,mysql,idea,postman,linux&perline=15)](https://skillicons.dev)
 <br><br>
