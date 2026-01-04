@@ -13,10 +13,10 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>
+  <li> <b>2026-01-04:</b> <a href="https://tkouleris.eu/blog/invokable-controller" target="_blank">Laravel: Invokable Controllers</a></li>  
   <li> <b>2025-12-27:</b> <a href="https://tkouleris.eu/blog/google+" target="_blank">Forgotten Technologies #8: Google+</a></li>    
   <li> <b>2025-12-14:</b> <a href="https://tkouleris.eu/blog/the-chronicles-of-a-windows-11-installation" target="_blank">The Chronicles of a Windows 11 Installation</a></li>  
   <li> <b>2025-12-07:</b> <a href="https://tkouleris.eu/blog/the-it-crowd" target="_blank">Computer Science Series #2: The IT Crowd</a></li>  
-  <li> <b>2025-11-30:</b> <a href="https://tkouleris.eu/blog/halt-and-catch-fire" target="_blank">Computer Science Series #1: Halt and Catch Fire</a></li>     
-  <li> <b>2025-11-23:</b> <a href="https://tkouleris.eu/blog/quick-sort" target="_blank">Sorting Algorithms #4: Quick Sort</a></li>               
+  <li> <b>2025-11-30:</b> <a href="https://tkouleris.eu/blog/halt-and-catch-fire" target="_blank">Computer Science Series #1: Halt and Catch Fire</a></li>                  
 </ul>
 </div>
