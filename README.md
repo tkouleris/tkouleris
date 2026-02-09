@@ -13,10 +13,10 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>
+  <li> <b>2026-02-08:</b> <a href="https://tkouleris.eu/blog/amazing-grace" target="_blank">Tech Heroes #12: Grace Hopper</a></li>    
   <li> <b>2026-02-01:</b> <a href="https://tkouleris.eu/blog/code-kata-bank-account" target="_blank">Code Kata #1: Bank Account</a></li>  
   <li> <b>2026-01-25:</b> <a href="https://tkouleris.eu/blog/stack" target="_blank">Data Structures #5: Stack</a></li>    
   <li> <b>2026-01-18:</b> <a href="https://tkouleris.eu/blog/dvd" target="_blank">Forgotten Technologies #9: DVD</a></li>   
   <li> <b>2026-01-11:</b> <a href="https://tkouleris.eu/blog/web-dev-challenge" target="_blank">Computer Science Series #3: Web Dev Challenge</a></li>     
-  <li> <b>2026-01-04:</b> <a href="https://tkouleris.eu/blog/invokable-controller" target="_blank">Laravel: Invokable Controllers</a></li>  
 </ul>
 </div>
