@@ -13,10 +13,10 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>
+  <li> <b>2026-03-22:</b> <a href="https://tkouleris.eu/blog/the-chap-theorem" target="_blank">The CAP theorem</a></li>       
   <li> <b>2026-03-08:</b> <a href="https://tkouleris.eu/blog/devs" target="_blank">Devs</a></li>     
   <li> <b>2026-02-22:</b> <a href="https://tkouleris.eu/blog/from-imposter-syndrom-to-dunning-krugger-effect" target="_blank">AI: From Imposter Syndrom to Dunning-Kruger Effect</a></li> 
   <li> <b>2026-02-08:</b> <a href="https://tkouleris.eu/blog/amazing-grace" target="_blank">Tech Heroes #12: Grace Hopper</a></li>    
-  <li> <b>2026-02-01:</b> <a href="https://tkouleris.eu/blog/code-kata-bank-account" target="_blank">Code Kata #1: Bank Account</a></li>  
-  <li> <b>2026-01-25:</b> <a href="https://tkouleris.eu/blog/stack" target="_blank">Data Structures #5: Stack</a></li>          
+  <li> <b>2026-02-01:</b> <a href="https://tkouleris.eu/blog/code-kata-bank-account" target="_blank">Code Kata #1: Bank Account</a></li>       
 </ul>
 </div>
