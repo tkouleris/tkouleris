@@ -13,10 +13,10 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>
+  <li> <b>2026-07-12:</b> <a href="https://tkouleris.eu/blog/laravel-herd" target="_blank">Laravel Herd: The Easiest Way to Build Laravel Applications Locally</a></li>    
   <li> <b>2026-07-10:</b> <a href="https://tkouleris.eu/blog/nikola-tesla" target="_blank">Nikola Tesla: The Man Out Of Time</a></li>   
   <li> <b>2026-05-31:</b> <a href="https://tkouleris.eu/blog/localsend" target="_blank">LocalSend: Share files without the cloud</a></li>  
   <li> <b>2026-05-24:</b> <a href="https://tkouleris.eu/blog/localwp" target="_blank">LocalWP: Build WordPress Locally Without the Headaches</a></li>     
-  <li> <b>2026-05-23:</b> <a href="https://tkouleris.eu/blog/compresso" target="_blank">Shrink Your Files With CompressO</a></li>        
-  <li> <b>2026-04-26:</b> <a href="https://tkouleris.eu/blog/mosaic" target="_blank">NCSA Mosaic</a></li>                
+  <li> <b>2026-05-23:</b> <a href="https://tkouleris.eu/blog/compresso" target="_blank">Shrink Your Files With CompressO</a></li>                      
 </ul>
 </div>
