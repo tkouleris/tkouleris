@@ -13,10 +13,10 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>
+  <li> <b>2026-08-02:</b> <a href="https://tkouleris.eu/blog/oltp-vs-olap" target="_blank">OLTP vs OLAP</a></li>
   <li> <b>2026-07-27:</b> <a href="https://tkouleris.eu/blog/preventing-duplicate-payment-charges" target="_blank">Preventing Duplicate Payment Charges</a></li>      
   <li> <b>2026-07-21:</b> <a href="https://tkouleris.eu/blog/rate-limiting-without-boundary-bursts" target="_blank">Rate Limiting Without Boundary Bursts</a></li>  
   <li> <b>2026-07-20:</b> <a href="https://tkouleris.eu/blog/killing-the-n+1-query-problem" target="_blank">Killing the N+1 Query Problem</a></li>  
-  <li> <b>2026-07-19:</b> <a href="https://tkouleris.eu/blog/decoupling-mobile-from-backend-services" target="_blank">Decoupling Mobile from Backend Services</a></li>  
-  <li> <b>2026-07-12:</b> <a href="https://tkouleris.eu/blog/laravel-herd" target="_blank">Laravel Herd: The Easiest Way to Build Laravel Applications Locally</a></li>                                
+  <li> <b>2026-07-19:</b> <a href="https://tkouleris.eu/blog/decoupling-mobile-from-backend-services" target="_blank">Decoupling Mobile from Backend Services</a></li>    
 </ul>
 </div>
