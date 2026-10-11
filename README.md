@@ -13,10 +13,10 @@ If you’re still reading, feel free to dive into my projects. Just a warning: y
 
 ## :thread: Latest Blog Posts
 <ul>
+  <li> <b>2026-10-11:</b> <a href="https://tkouleris.eu/blog/margaret-hamilton" target="_blank">Margaret Hamilton: Woman on the moon</a></li>     
   <li> <b>2026-10-04:</b> <a href="https://tkouleris.eu/blog/dennis-ritchie" target="_blank">Dennis Ritchie: The Man Behind the Code</a></li>   
   <li> <b>2026-09-13:</b> <a href="https://tkouleris.eu/blog/the-billion-dollar-code" target="_blank">The Billion Dollar Code</a></li>    
   <li> <b>2026-09-06:</b> <a href="https://tkouleris.eu/blog/illusions-of-ai-coding" target="_blank">Illusions of AI Coding</a></li>    
-  <li> <b>2026-08-02:</b> <a href="https://tkouleris.eu/blog/oltp-vs-olap" target="_blank">OLTP vs OLAP</a></li>
-  <li> <b>2026-07-27:</b> <a href="https://tkouleris.eu/blog/preventing-duplicate-payment-charges" target="_blank">Preventing Duplicate Payment Charges</a></li>         
+  <li> <b>2026-08-02:</b> <a href="https://tkouleris.eu/blog/oltp-vs-olap" target="_blank">OLTP vs OLAP</a></li>      
 </ul>
 </div>
